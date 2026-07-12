@@ -1,5 +1,10 @@
-{
-  "enabled": true,
-  "image_url": "ads/pause_overlay.png",
-  "target": "https://minihumantinybites.com"
-}
+[
+  {
+    "enabled": true,
+    "image_url": "ads/pause_overlay.png"
+  },
+  {
+    "enabled": true,
+    "image_url": "ads/pause_overlay_2.png"
+  }
+]

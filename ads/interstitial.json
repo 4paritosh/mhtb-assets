@@ -1,12 +1,12 @@
 [
   {
     "enabled": true,
-    "image_url": "ads/home_banner.png",
+    "image_url": "ads/interstitial.png",
     "target": "https://minihumantinybites.com"
   },
   {
     "enabled": true,
-    "image_url": "ads/home_banner_2.png",
+    "image_url": "ads/interstitial_2.png",
     "target": "https://minihumantinybites.com"
   }
 ]
